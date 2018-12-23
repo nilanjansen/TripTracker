@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripTrackerServices", "TripTracker Services\TripTrackerServices.csproj", "{45A3F8A8-80CA-4BF3-A19F-8726883B168B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A3F8A8-80CA-4BF3-A19F-8726883B168B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A3F8A8-80CA-4BF3-A19F-8726883B168B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A3F8A8-80CA-4BF3-A19F-8726883B168B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A3F8A8-80CA-4BF3-A19F-8726883B168B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE77311B-64AC-4836-898A-5C3B49E80081}
+	EndGlobalSection
+EndGlobal

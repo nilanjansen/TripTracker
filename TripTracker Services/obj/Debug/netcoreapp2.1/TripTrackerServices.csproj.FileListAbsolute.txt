@@ -1,0 +1,14 @@
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\bin\Debug\netcoreapp2.1\TripTrackerServices.deps.json
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\bin\Debug\netcoreapp2.1\TripTrackerServices.runtimeconfig.json
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\bin\Debug\netcoreapp2.1\TripTrackerServices.runtimeconfig.dev.json
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\bin\Debug\netcoreapp2.1\TripTrackerServices.dll
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\bin\Debug\netcoreapp2.1\TripTrackerServices.pdb
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.csprojAssemblyReference.cache
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.csproj.CoreCompileInputs.cache
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.RazorAssemblyInfo.cache
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.RazorAssemblyInfo.cs
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.AssemblyInfoInputs.cache
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.AssemblyInfo.cs
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.RazorTargetAssemblyInfo.cache
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.dll
+C:\Users\Neil\Source\Repos\TripTracker Services\TripTracker Services\obj\Debug\netcoreapp2.1\TripTrackerServices.pdb
