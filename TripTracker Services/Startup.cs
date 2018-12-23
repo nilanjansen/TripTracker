@@ -12,6 +12,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using TripTrackerServices.Model;
 using Swashbuckle.AspNetCore.Swagger;
+using TripTrackerServices.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace TripTracker_Services
 {
@@ -27,8 +29,9 @@ namespace TripTracker_Services
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<Repository>();
+            //services.AddTransient<Repository>();
             services.AddMvc();
+            services.AddDbContext<TripContext>(options => options.UseSqlite("Data Source =efftrips.db"));
 
             services.AddSwaggerGen(c =>
 
@@ -63,6 +66,7 @@ namespace TripTracker_Services
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            TripContext.SeedData(app.ApplicationServices);
         }
     }
 }
